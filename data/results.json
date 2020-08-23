@@ -1,0 +1,52 @@
+{
+  "matchData": [
+    {
+      "user": "tgreco4",
+      "user2": "oldskool79",
+      "user1Score": 4,
+      "user2Score": 1
+    },
+    {
+      "user1": "tgreco45",
+      "user2": "oldskool795",
+      "user1Score": 1,
+      "user2Score": 4
+    },
+    {
+      "user": "tgreco46",
+      "user2": "oldskool796",
+      "user1Score": 2,
+      "user2Score": 2
+    },
+    {
+      "user": "tgreco45",
+      "user2": "oldskool795",
+      "user1Score": 2,
+      "user2Score": 1
+    },
+    {
+      "user": "tgreco44",
+      "user2": "oldskool794",
+      "user1Score": 14,
+      "user2Score": 3
+    },
+    {
+      "user": "tgreco43",
+      "user2": "oldskool793",
+      "user1Score": 4,
+      "user2Score": 5
+    },
+    {
+      "user": "tgreco42",
+      "user2": "oldskool792",
+      "user1Score": 5,
+      "user2Score": 2
+    },
+    {
+      "user": "tgreco41",
+      "user2": "oldskool791",
+      "user1Score": 4,
+      "user2Score": 0
+    }
+  ]
+}
